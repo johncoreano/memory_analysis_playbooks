@@ -7,6 +7,8 @@ Collection of playbooks that are easy to use and can spark ideas for your own pl
 I started writing these to document the processes and mindset I used to solve CTF challenges.  
 The playbooks are very simple on purpose to give you room to modify them and make them better.  
 
+*I created these using Jupyter Notebook to give me the flexibility of storing code snippets.*    
+
 **Currently available playbooks**  
 
 - Memory Analysis with Volatility
